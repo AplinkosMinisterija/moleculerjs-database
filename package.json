@@ -52,13 +52,13 @@
     "knex": "^3.1.0",
     "moleculer": "^0.14.33",
     "moleculer-repl": "^0.7.4",
-    "moleculer-web": "^0.10.7",
+    "moleculer-web": "^0.11.0",
     "mongodb": "^6.5.0",
     "mysql": "^2.18.1",
     "mysql2": "^3.9.7",
     "nedb": "^1.8.0",
     "nodemon": "^3.1.0",
-    "npm-check-updates": "^16.14.20",
+    "npm-check-updates": "^23.1.1",
     "pg": "^8.11.5",
     "prettier": "^3.2.5",
     "qs": "^6.12.1",
@@ -84,6 +84,6 @@
     "fastest-validator": "^1.18.0",
     "lodash": "^4.17.21",
     "semver": "^7.6.0",
-    "sqlite3": "^5.1.7"
+    "sqlite3": "^6.0.1"
   }
 }
